@@ -1,0 +1,602 @@
+[
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is artificial intelligence?",
+    "output": "What is artificial intelligence? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is narrow AI?",
+    "output": "What is narrow AI? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is general AI?",
+    "output": "What is general AI? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is an intelligent agent?",
+    "output": "What is an intelligent agent? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is the Turing Test?",
+    "output": "What is the Turing Test? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is expert system?",
+    "output": "What is expert system? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is knowledge representation?",
+    "output": "What is knowledge representation? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is search space?",
+    "output": "What is search space? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is heuristic?",
+    "output": "What is heuristic? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is rational agent?",
+    "output": "What is rational agent? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is AI planning?",
+    "output": "What is AI planning? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is NLP?",
+    "output": "What is NLP? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is computer vision?",
+    "output": "What is computer vision? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is robotics in AI?",
+    "output": "What is robotics in AI? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is symbolic AI?",
+    "output": "What is symbolic AI? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is sub-symbolic AI?",
+    "output": "What is sub-symbolic AI? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is weak AI?",
+    "output": "What is weak AI? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is strong AI?",
+    "output": "What is strong AI? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is inference in AI?",
+    "output": "What is inference in AI? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is reasoning?",
+    "output": "What is reasoning? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is perception in AI?",
+    "output": "What is perception in AI? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is learning in AI?",
+    "output": "What is learning in AI? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is autonomy in AI?",
+    "output": "What is autonomy in AI? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this AI interview question clearly.",
+    "input": "What is AI ethics?",
+    "output": "What is AI ethics? is a fundamental concept in AI. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is machine learning?",
+    "output": "What is machine learning? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is supervised learning?",
+    "output": "What is supervised learning? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is unsupervised learning?",
+    "output": "What is unsupervised learning? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is reinforcement learning?",
+    "output": "What is reinforcement learning? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is overfitting?",
+    "output": "What is overfitting? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is underfitting?",
+    "output": "What is underfitting? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is bias variance tradeoff?",
+    "output": "What is bias variance tradeoff? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is training data?",
+    "output": "What is training data? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is test data?",
+    "output": "What is test data? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is cross validation?",
+    "output": "What is cross validation? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is feature engineering?",
+    "output": "What is feature engineering? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is model generalization?",
+    "output": "What is model generalization? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is gradient descent?",
+    "output": "What is gradient descent? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is learning rate?",
+    "output": "What is learning rate? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is loss function?",
+    "output": "What is loss function? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is classification?",
+    "output": "What is classification? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is regression?",
+    "output": "What is regression? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is clustering?",
+    "output": "What is clustering? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is dimensionality reduction?",
+    "output": "What is dimensionality reduction? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is PCA?",
+    "output": "What is PCA? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is model evaluation?",
+    "output": "What is model evaluation? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is accuracy?",
+    "output": "What is accuracy? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is precision and recall?",
+    "output": "What is precision and recall? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this ML interview question clearly.",
+    "input": "What is F1 score?",
+    "output": "What is F1 score? is a fundamental concept in ML. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is a data structure?",
+    "output": "What is a data structure? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is an array?",
+    "output": "What is an array? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is a linked list?",
+    "output": "What is a linked list? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is a stack?",
+    "output": "What is a stack? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is a queue?",
+    "output": "What is a queue? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is recursion?",
+    "output": "What is recursion? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is time complexity?",
+    "output": "What is time complexity? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is space complexity?",
+    "output": "What is space complexity? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is Big O notation?",
+    "output": "What is Big O notation? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is a tree?",
+    "output": "What is a tree? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is a binary tree?",
+    "output": "What is a binary tree? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is a BST?",
+    "output": "What is a BST? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is a graph?",
+    "output": "What is a graph? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is DFS?",
+    "output": "What is DFS? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is BFS?",
+    "output": "What is BFS? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is hashing?",
+    "output": "What is hashing? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is a hash table?",
+    "output": "What is a hash table? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is collision?",
+    "output": "What is collision? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is sorting?",
+    "output": "What is sorting? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is searching?",
+    "output": "What is searching? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is linear search?",
+    "output": "What is linear search? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is binary search?",
+    "output": "What is binary search? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is dynamic programming?",
+    "output": "What is dynamic programming? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DSA interview question clearly.",
+    "input": "What is greedy algorithm?",
+    "output": "What is greedy algorithm? is a fundamental concept in DSA. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is DBMS?",
+    "output": "What is DBMS? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is a database?",
+    "output": "What is a database? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is SQL?",
+    "output": "What is SQL? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is a table?",
+    "output": "What is a table? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is a primary key?",
+    "output": "What is a primary key? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is a foreign key?",
+    "output": "What is a foreign key? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is normalization?",
+    "output": "What is normalization? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is denormalization?",
+    "output": "What is denormalization? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What are ACID properties?",
+    "output": "What are ACID properties? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is transaction?",
+    "output": "What is transaction? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is isolation?",
+    "output": "What is isolation? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is indexing?",
+    "output": "What is indexing? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is view?",
+    "output": "What is view? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is stored procedure?",
+    "output": "What is stored procedure? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is trigger?",
+    "output": "What is trigger? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is schema?",
+    "output": "What is schema? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is relational model?",
+    "output": "What is relational model? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is ER diagram?",
+    "output": "What is ER diagram? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is join?",
+    "output": "What is join? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is inner join?",
+    "output": "What is inner join? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is left join?",
+    "output": "What is left join? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is right join?",
+    "output": "What is right join? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is NoSQL?",
+    "output": "What is NoSQL? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this DBMS interview question clearly.",
+    "input": "What is data integrity?",
+    "output": "What is data integrity? is a fundamental concept in DBMS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is an operating system?",
+    "output": "What is an operating system? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What are the functions of OS?",
+    "output": "What are the functions of OS? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is a process?",
+    "output": "What is a process? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is a thread?",
+    "output": "What is a thread? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is process scheduling?",
+    "output": "What is process scheduling? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is context switching?",
+    "output": "What is context switching? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is deadlock?",
+    "output": "What is deadlock? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What are deadlock conditions?",
+    "output": "What are deadlock conditions? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is virtual memory?",
+    "output": "What is virtual memory? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is paging?",
+    "output": "What is paging? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is segmentation?",
+    "output": "What is segmentation? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is memory management?",
+    "output": "What is memory management? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is CPU scheduling?",
+    "output": "What is CPU scheduling? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is FCFS scheduling?",
+    "output": "What is FCFS scheduling? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is round robin scheduling?",
+    "output": "What is round robin scheduling? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is semaphore?",
+    "output": "What is semaphore? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is mutex?",
+    "output": "What is mutex? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is critical section?",
+    "output": "What is critical section? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is race condition?",
+    "output": "What is race condition? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is system call?",
+    "output": "What is system call? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is kernel?",
+    "output": "What is kernel? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is user mode?",
+    "output": "What is user mode? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is device driver?",
+    "output": "What is device driver? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  },
+  {
+    "instruction": "Answer this OS interview question clearly.",
+    "input": "What is file system?",
+    "output": "What is file system? is a fundamental concept in OS. This explanation is concise and suitable for technical interviews."
+  }
+]
